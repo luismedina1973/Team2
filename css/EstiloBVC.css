@@ -5,7 +5,7 @@
 }
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-image: url('img/fondo.jpg');
+    background-image: url('../img/Fondo.jpg');
     background-size: 100%;
 }
 .form-login {
@@ -180,7 +180,7 @@ body {
 .form-Index {
     width: 400px;
     height: 340px;
-    background-image: url('img/Team2.jpg');
+    background-image: url('../img/Team2.jpg');
     background-size: 100%;
     margin: auto;
     margin-top: 180px;
