@@ -1,2 +1,8 @@
-# Proyecto-Team2
-test
+Integrantes:
+            Garcia Camila
+            Jara Libera
+            Medina Luis
+            Villarroel Boris
+
+Seccion:    
+            005V
