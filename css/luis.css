@@ -5,10 +5,12 @@
 }
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-image: url('../img/Fondo.jpg');
+    background-image: url('../img/fondo.jpg');
     background-size: 100%;
 }
-.form-login {
+
+
+/*.form-login {
     width: 400px;
     height: 340px;
     background: #4e4d4d;
@@ -65,7 +67,7 @@ body {
 .form-login a:hover{
     text-decoration-style: underline;
 }
-/*---------------*/
+
 .form-recup {
     width: 400px;
     height: 350px;
@@ -119,9 +121,8 @@ body {
     font-size: 14px;
 }
 .form-recup a:hover{
-    text-decoration-style: underline;
-}
-/*---------------*/
+    text-decoration-style: underline
+
 .form-registro {
     width: 400px;
     height: 490px;
@@ -177,11 +178,11 @@ body {
 .form-registro a:hover{
     text-decoration-style: underline;
 }
-/*---------------*/
+
 .form-Index {
     width: 400px;
     height: 340px;
-    background-image: url('../img/Team2.jpg');
+    background-image: url('../img.luis/logo.jpg');
     background-size: 100%;
     margin: auto;
     margin-top: 180px;
@@ -217,4 +218,11 @@ body {
 }
 .form-Index a:hover{
     text-decoration-style: underline;
+}*/
+.container {
+    max-width: 550px;
+    margin: auto;
+    background-color: transparent;
+    -webkit-box-shadow: 2px 2px 13px -4px rgba(0, 0, 0, 0.21);
+    box-shadow: 2px 2px 13px -4px rgba(0, 0, 0, 0.21);
 }
